@@ -1,0 +1,359 @@
+{
+  "temario": {
+    "1_FUNDAMENTOS": {
+      "1.1": "Lógica de proposiciones",
+      "1.2": "Conjuntos",
+      "1.3": "Aplicaciones",
+      "1.4": "Cardinal de un conjunto"
+    },
+    "2_ARITMETICA_ALGEBRA": {
+      "2.1": "Números naturales",
+      "2.2": "Números enteros",
+      "2.3": "Números racionales",
+      "2.4": "Números reales",
+      "2.5": "Ecuaciones",
+      "2.6": "Exponenciales",
+      "2.7": "Logaritmos",
+      "2.8": "Cálculos financieros",
+      "2.9": "Ecuaciones de segundo grado"
+    },
+    "3_GEOMETRIA": {
+      "3.1": "Geometría analítica",
+      "3.2": "Rectas en el plano",
+      "3.3": "Figuras geométricas planas",
+      "3.4": "Ángulos y razones trigonométricas",
+      "3.5": "Geometría intrínseca"
+    },
+    "4_ANALISIS": {
+      "4.1": "Funciones",
+      "4.2": "Límites y continuidad",
+      "4.3": "Cálculo diferencial",
+      "4.4": "Funciones elementales",
+      "4.5": "Idea del cálculo integral"
+    },
+    "5_PROBABILIDAD_ESTADISTICA": {
+      "5.1": "Azar y probabilidad",
+      "5.2": "Modelo de los fenómenos aleatorios",
+      "5.3": "Probabilidades condicionadas",
+      "5.4": "Variables de la Estadística descriptiva",
+      "5.5": "Descripción gráfica de una variable",
+      "5.6": "Descripción numérica de una variable",
+      "5.7": "Combinatoria",
+      "5.8": "Ampliación de Estadística descriptiva"
+    }
+  },
+  "examenes_anteriores": {
+    "2022-23_septiembre": {
+      "preguntas": [
+        {
+          "tema": "Conjuntos",
+          "pregunta": "Dados dos conjuntos A y B, es correcto afirmar que",
+          "tipo": "teoria"
+        },
+        {
+          "tema": "Aplicaciones",
+          "pregunta": "Sean A = {x,y,u,v} y B = {x,y, u} y f:A↔ B",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Sistemas numeracion",
+          "pregunta": "La expresión decimal del número (746)8",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Operaciones fracciones",
+          "pregunta": "La expresión [(2/5) ÷ (3/10)] ÷ [(2/3) + (3/4)] · (5/6)",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Geometria analitica",
+          "pregunta": "La distancia entre los puntos (-1/3, 2) y (2/3, -1)",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Circunferencia",
+          "pregunta": "La circunferencia de radio √10 y centro (3,-2)",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Funciones",
+          "pregunta": "El gráfico de la función f(x) = 2x² + 3x + 4",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Limites",
+          "pregunta": "El límite de f(x) = 3x² - 4x - 15 cuando x → -2",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Probabilidad",
+          "pregunta": "Se tienen dos urnas, la A con 4 bolas rojas y 3 negras",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Estadistica",
+          "pregunta": "El número de hijos de una persona es una variable estadística",
+          "tipo": "teoria"
+        }
+      ]
+    },
+    "2021-22_septiembre": {
+      "preguntas": [
+        {
+          "tema": "Aplicaciones",
+          "pregunta": "Sean A, B y C los conjuntos A = {2,4,6}, B = {a,b,c}, C = {1,3,5}",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Conjuntos",
+          "pregunta": "Preguntadas 120 personas, 110 indicaron que saben hablar inglés",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Operaciones fracciones",
+          "pregunta": "La suma de las fracciones 7/30 y 5/75",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Ecuaciones",
+          "pregunta": "La suma de tres números naturales consecutivos",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Geometria analitica",
+          "pregunta": "La recta que pasa por los puntos (3, -2) y (4, 0)",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Geometria",
+          "pregunta": "Si el radio de una moneda es de 10 milímetros",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Funciones",
+          "pregunta": "El gráfico de la función f(x) = √x² + 25",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Derivadas",
+          "pregunta": "La función f(x) = 2√(x - 2)² tiene derivada",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Probabilidad",
+          "pregunta": "Lanzamos tres veces una moneda equilibrada",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Estadistica",
+          "pregunta": "Una vivienda con calefacción central ha llenado un depósito",
+          "tipo": "problema"
+        }
+      ]
+    },
+    "2023-24_septiembre": {
+      "preguntas": [
+        {
+          "tema": "Logica proposiciones",
+          "pregunta": "¿Cuál de las siguientes proposiciones es condicional?",
+          "tipo": "teoria"
+        },
+        {
+          "tema": "Aplicaciones",
+          "pregunta": "Sean A = {a,b,c}, B = {1,2,3,4} y f:A→B",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Operaciones fracciones",
+          "pregunta": "El cociente -1/5 * (3/4 - 1/3) : 2/3 * (1/2 - 5/4)",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Porcentajes",
+          "pregunta": "Un producto contiene un 14% de grasas",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Geometria analitica",
+          "pregunta": "El punto situado en la recta de ecuación y = -4x+2/5",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Geometria",
+          "pregunta": "El área del paralelogramo formado por los puntos",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Limites",
+          "pregunta": "El límite de f(x) = 3x³ + 2x² - 4x + 1 cuando x → -2",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Derivadas",
+          "pregunta": "La derivada de la función f(x) = 4x³ - 5x² + 2x - 1",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Probabilidad",
+          "pregunta": "¿Qué es más probable, obtener suma múltiplo de 3",
+          "tipo": "comparacion"
+        },
+        {
+          "tema": "Estadistica",
+          "pregunta": "La edad en años de una persona es una variable estadística",
+          "tipo": "teoria"
+        }
+      ]
+    },
+    "2024-25_junio": {
+      "preguntas": [
+        {
+          "tema": "Logica proposiciones",
+          "pregunta": "Sea p la proposición 'hace aire' y q la proposición 'hay marejada'",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Conjuntos",
+          "pregunta": "Si #(A) = 6 y #(A∩B) = 3, entonces",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Ecuaciones",
+          "pregunta": "Salgo por la tarde de casa con d €",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Aritmetica",
+          "pregunta": "El cociente entre el mínimo común múltiplo y el máximo común divisor",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Geometria analitica",
+          "pregunta": "Las rectas de ecuación x = 4y - 7 y x-y=2",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Geometria",
+          "pregunta": "La altura de un paralelogramo de base los puntos A(2, 3) y B(6,5)",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Limites",
+          "pregunta": "Si f es la función definida por f(x) = x²/(x²-4)",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Derivadas",
+          "pregunta": "La pendiente de la recta tangente a la gráfica de f(x) = 2x²",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Probabilidad",
+          "pregunta": "Se lanzan simultáneamente un dado de 6 caras y una moneda",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Estadistica",
+          "pregunta": "En un supermercado la venta diaria de botellas de agua",
+          "tipo": "problema"
+        }
+      ]
+    },
+    "2022-23_junio": {
+      "preguntas": [
+        {
+          "tema": "Logica proposiciones",
+          "pregunta": "Sea p la proposición 'hace calor' y q la proposición 'bebo agua'",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Conjuntos",
+          "pregunta": "Si #(A) = 8 y #(A∩B) = 3, entonces",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Porcentajes",
+          "pregunta": "Un impuesto sobre los carburantes obliga a pagar el 2.5%",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Ecuaciones",
+          "pregunta": "El valor de x en la ecuación x - (2x/5 - x/10 + 3x/2 - 3) = -1",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Geometria analitica",
+          "pregunta": "La paralela a la recta 5x - 2y + 3 = 0 por el punto (-2,3)",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Geometria",
+          "pregunta": "Si consideramos que el número π vale aproximadamente 3.14",
+          "tipo": "problema"
+        },
+        {
+          "tema": "Derivadas",
+          "pregunta": "La pendiente de la tangente a la gráfica de f(x) = 2x²-2x+2",
+          "tipo": "aplicacion"
+        },
+        {
+          "tema": "Limites",
+          "pregunta": "La función f(x) = (9-x²)/(3-x), cuando x → 2",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Probabilidad",
+          "pregunta": "Si P(A) = 0.4 y P(A∩B) = 0.2, la probabilidad condicionada",
+          "tipo": "calculo"
+        },
+        {
+          "tema": "Estadistica",
+          "pregunta": "En una gran superficie, la venta máxima diaria de ventiladores",
+          "tipo": "problema"
+        }
+      ]
+    }
+  },
+  "analisis_patrones": {
+    "frecuencia_temas": {
+      "Conjuntos": 4,
+      "Aplicaciones": 3,
+      "Sistemas numeracion": 1,
+      "Operaciones fracciones": 3,
+      "Geometria analitica": 5,
+      "Circunferencia": 1,
+      "Funciones": 2,
+      "Limites": 4,
+      "Probabilidad": 5,
+      "Estadistica": 5,
+      "Ecuaciones": 3,
+      "Geometria": 4,
+      "Derivadas": 4,
+      "Logica proposiciones": 3,
+      "Porcentajes": 2,
+      "Aritmetica": 1
+    },
+    "tipos_pregunta": {
+      "teoria": 4,
+      "aplicacion": 14,
+      "calculo": 20,
+      "problema": 11,
+      "comparacion": 1
+    },
+    "temas_recurrentes": [
+      "Probabilidad",
+      "Estadistica",
+      "Conjuntos",
+      "Geometria",
+      "Derivadas",
+      "Limites",
+      "Geometria analitica"
+    ],
+    "estadisticas": {
+      "total_examenes_analizados": 5,
+      "total_preguntas": 50,
+      "tema_mas_frecuente": "Geometria analitica",
+      "tipo_pregunta_mas_comun": "calculo"
+    }
+  }
+}

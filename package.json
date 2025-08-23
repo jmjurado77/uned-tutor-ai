@@ -1,0 +1,33 @@
+{
+  "name": "uned-tutor-ai",
+  "version": "1.0.0",
+  "description": "Agente IA Tutor para el Curso de Acceso UNED +25 - Matemáticas Aplicadas a las Ciencias Sociales",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Build complete'",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [
+    "UNED",
+    "IA",
+    "tutor",
+    "matemáticas",
+    "educación",
+    "acceso universitario"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "gh-pages": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/uned-tutor-ai.git"
+  },
+  "homepage": "https://tu-usuario.github.io/uned-tutor-ai"
+}
